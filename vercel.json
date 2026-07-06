@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/oauth-picker.html", "destination": "/oauth-picker.html" },
-    { "source": "/(.*)", "destination": "/eigenbeleg.html" }
-  ]
-}
